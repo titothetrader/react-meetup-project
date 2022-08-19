@@ -1,0 +1,9 @@
+Go into Firebase and login with Google account
+Create a project called "react-getting-started"
+Go to Realtime Database and Create a Database (leave default region)
+Start in Test Mode
+This sets up a DB and also an API for requests
+Get API URL from DATA tab on the first row
+
+When we call using JS Fetch, we can simply add "https://.../meetups.json" and it will automatically add a "meetups" collection/table
+Firebase requires it to have .json at the end
